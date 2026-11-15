@@ -1,0 +1,583 @@
+{
+  "execucao": "20261113T015623-67366fd2",
+  "gerado_em": "2026-11-13T01:56:33+00:00",
+  "modo": "falha",
+  "aviso": "Ocorrências fictícias. Não representam problemas reais nos endereços. Nenhum envio a órgãos públicos.",
+  "resumo": {
+    "total": 15,
+    "apto": 0,
+    "pendente": 3,
+    "duplicado": 1,
+    "falha_consulta": 11,
+    "prioridade_alta": 0
+  },
+  "itens": [
+    {
+      "linha": 1,
+      "id": "PL-001",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01001000",
+      "tipo": "buraco",
+      "referencia": "Ponto fictício 01 — referência de teste",
+      "descricao": "Buraco dificulta a passagem na calçada."
+    },
+    {
+      "linha": 2,
+      "id": "PL-002",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01310100",
+      "tipo": "desnivel",
+      "referencia": "Ponto fictício 02 — referência de teste",
+      "descricao": "Desnível na passagem exige avaliação."
+    },
+    {
+      "linha": 3,
+      "id": "PL-003",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01310930",
+      "tipo": "obstaculo",
+      "referencia": "Ponto fictício 03 — referência de teste",
+      "descricao": "Objeto bloqueia a circulação na calçada."
+    },
+    {
+      "linha": 4,
+      "id": "PL-004",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "04003000",
+      "tipo": "piso_tatil_danificado",
+      "referencia": "Ponto fictício 04 — referência de teste",
+      "descricao": "Trecho de piso tátil danificado precisa de avaliação."
+    },
+    {
+      "linha": 5,
+      "id": "PL-005",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "05407002",
+      "tipo": "buraco",
+      "referencia": "Ponto fictício 05 — referência de teste",
+      "descricao": "Buraco dificulta a passagem na calçada."
+    },
+    {
+      "linha": 6,
+      "id": "PL-006",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01001000",
+      "tipo": "desnivel",
+      "referencia": "Ponto fictício 06 — referência de teste",
+      "descricao": "Desnível na passagem exige avaliação."
+    },
+    {
+      "linha": 7,
+      "id": "PL-007",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01310100",
+      "tipo": "obstaculo",
+      "referencia": "Ponto fictício 07 — referência de teste",
+      "descricao": "Objeto bloqueia a circulação na calçada."
+    },
+    {
+      "linha": 8,
+      "id": "PL-008",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "01310930",
+      "tipo": "piso_tatil_danificado",
+      "referencia": "Ponto fictício 08 — referência de teste",
+      "descricao": "Trecho de piso tátil danificado precisa de avaliação."
+    },
+    {
+      "linha": 9,
+      "id": "PL-009",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "04003000",
+      "tipo": "buraco",
+      "referencia": "Ponto fictício 09 — referência de teste",
+      "descricao": "Buraco dificulta a passagem na calçada."
+    },
+    {
+      "linha": 10,
+      "id": "PL-010",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "05407002",
+      "tipo": "desnivel",
+      "referencia": "Ponto fictício 10 — referência de teste",
+      "descricao": "Desnível na passagem exige avaliação."
+    },
+    {
+      "linha": 11,
+      "id": "PL-001",
+      "status": "duplicado",
+      "motivo": "ID repetido no lote; primeira ocorrência prevalece",
+      "prioridade": "",
+      "origem_endereco": "",
+      "cep": "01001000",
+      "tipo": "buraco",
+      "referencia": "Ponto fictício 01 — referência de teste",
+      "descricao": "Buraco dificulta a passagem na calçada."
+    },
+    {
+      "linha": 12,
+      "id": "PL-012",
+      "status": "pendente",
+      "motivo": "CEP ausente ou formato inválido",
+      "prioridade": "",
+      "origem_endereco": "",
+      "cep": "",
+      "tipo": "desnivel",
+      "referencia": "Ponto fictício 02 — referência de teste",
+      "descricao": "Desnível na passagem exige avaliação."
+    },
+    {
+      "linha": 13,
+      "id": "PL-013",
+      "status": "pendente",
+      "motivo": "CEP ausente ou formato inválido",
+      "prioridade": "",
+      "origem_endereco": "",
+      "cep": "12A45",
+      "tipo": "obstaculo",
+      "referencia": "Ponto fictício 03 — referência de teste",
+      "descricao": "Objeto bloqueia a circulação na calçada."
+    },
+    {
+      "linha": 14,
+      "id": "PL-014",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas",
+      "prioridade": "",
+      "origem_endereco": "falha simulada",
+      "cep": "99999999",
+      "tipo": "piso_tatil_danificado",
+      "referencia": "Ponto fictício 04 — referência de teste",
+      "descricao": "Trecho de piso tátil danificado precisa de avaliação."
+    },
+    {
+      "linha": 15,
+      "id": "PL-015",
+      "status": "pendente",
+      "motivo": "Descrição ausente ou muito curta (mínimo 10 caracteres)",
+      "prioridade": "",
+      "origem_endereco": "",
+      "cep": "05407002",
+      "tipo": "buraco",
+      "referencia": "Ponto fictício 05 — referência de teste",
+      "descricao": ""
+    }
+  ],
+  "eventos": [
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "inicio",
+      "modo": "falha"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 1,
+      "id": "PL-001",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:23+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:24+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:24+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:24+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 2,
+      "id": "PL-002",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:24+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:25+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:25+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:25+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 3,
+      "id": "PL-003",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:25+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:26+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:26+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:26+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 4,
+      "id": "PL-004",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:26+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:26+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:27+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:27+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 5,
+      "id": "PL-005",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:27+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:27+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:28+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:28+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 6,
+      "id": "PL-006",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:28+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:28+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:29+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:29+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 7,
+      "id": "PL-007",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:29+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:29+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:30+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:30+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 8,
+      "id": "PL-008",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:30+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:30+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:31+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:31+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 9,
+      "id": "PL-009",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:31+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:31+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 10,
+      "id": "PL-010",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 11,
+      "id": "PL-001",
+      "status": "duplicado",
+      "motivo": "ID repetido no lote; primeira ocorrência prevalece"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 12,
+      "id": "PL-012",
+      "status": "pendente",
+      "motivo": "CEP ausente ou formato inválido"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 13,
+      "id": "PL-013",
+      "status": "pendente",
+      "motivo": "CEP ausente ou formato inválido"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 1,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:32+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 2,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:33+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "consulta_falhou",
+      "tentativa": 3,
+      "codigo": "URLError"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:33+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 14,
+      "id": "PL-014",
+      "status": "falha_consulta",
+      "motivo": "Consulta indisponível após 3 tentativas"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:33+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "item_finalizado",
+      "linha": 15,
+      "id": "PL-015",
+      "status": "pendente",
+      "motivo": "Descrição ausente ou muito curta (mínimo 10 caracteres)"
+    },
+    {
+      "data_hora": "2026-11-13T01:56:33+00:00",
+      "execucao": "20261113T015623-67366fd2",
+      "evento": "fim",
+      "resumo": {
+        "total": 15,
+        "apto": 0,
+        "pendente": 3,
+        "duplicado": 1,
+        "falha_consulta": 11,
+        "prioridade_alta": 0
+      }
+    }
+  ]
+}

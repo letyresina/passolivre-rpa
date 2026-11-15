@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+output/resultado.json
+logs/*.jsonl
+!logs/amostra_*.jsonl

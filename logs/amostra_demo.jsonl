@@ -1,0 +1,17 @@
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "inicio", "modo": "demo"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 1, "id": "PL-001", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 2, "id": "PL-002", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 3, "id": "PL-003", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 4, "id": "PL-004", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 5, "id": "PL-005", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 6, "id": "PL-006", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 7, "id": "PL-007", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 8, "id": "PL-008", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 9, "id": "PL-009", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 10, "id": "PL-010", "status": "apto", "motivo": "Pronto para análise humana"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 11, "id": "PL-001", "status": "duplicado", "motivo": "ID repetido no lote; primeira ocorrência prevalece"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 12, "id": "PL-012", "status": "pendente", "motivo": "CEP ausente ou formato inválido"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 13, "id": "PL-013", "status": "pendente", "motivo": "CEP ausente ou formato inválido"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 14, "id": "PL-014", "status": "pendente", "motivo": "CEP não encontrado no ViaCEP"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "item_finalizado", "linha": 15, "id": "PL-015", "status": "pendente", "motivo": "Descrição ausente ou muito curta (mínimo 10 caracteres)"}
+{"data_hora": "2026-11-13T01:56:58+00:00", "execucao": "20261113T015658-6782ad53", "evento": "fim", "resumo": {"total": 15, "apto": 10, "pendente": 4, "duplicado": 1, "falha_consulta": 0, "prioridade_alta": 3}}

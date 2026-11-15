@@ -1,0 +1,16 @@
+﻿id;cep;referencia;tipo;descricao;bloqueio_total
+PL-001;01001000;Ponto fictício 01 — referência de teste;buraco;Buraco dificulta a passagem na calçada.;nao
+PL-002;01310100;Ponto fictício 02 — referência de teste;desnivel;Desnível na passagem exige avaliação.;nao
+PL-003;01310930;Ponto fictício 03 — referência de teste;obstaculo;Objeto bloqueia a circulação na calçada.;sim
+PL-004;04003000;Ponto fictício 04 — referência de teste;piso_tatil_danificado;Trecho de piso tátil danificado precisa de avaliação.;nao
+PL-005;05407002;Ponto fictício 05 — referência de teste;buraco;Buraco dificulta a passagem na calçada.;nao
+PL-006;01001000;Ponto fictício 06 — referência de teste;desnivel;Desnível na passagem exige avaliação.;nao
+PL-007;01310100;Ponto fictício 07 — referência de teste;obstaculo;Objeto bloqueia a circulação na calçada.;sim
+PL-008;01310930;Ponto fictício 08 — referência de teste;piso_tatil_danificado;Trecho de piso tátil danificado precisa de avaliação.;nao
+PL-009;04003000;Ponto fictício 09 — referência de teste;buraco;Buraco dificulta a passagem na calçada.;nao
+PL-010;05407002;Ponto fictício 10 — referência de teste;desnivel;Desnível na passagem exige avaliação.;sim
+PL-001;01001000;Ponto fictício 01 — referência de teste;buraco;Buraco dificulta a passagem na calçada.;nao
+PL-012;;Ponto fictício 02 — referência de teste;desnivel;Desnível na passagem exige avaliação.;nao
+PL-013;12A45;Ponto fictício 03 — referência de teste;obstaculo;Objeto bloqueia a circulação na calçada.;sim
+PL-014;99999999;Ponto fictício 04 — referência de teste;piso_tatil_danificado;Trecho de piso tátil danificado precisa de avaliação.;nao
+PL-015;05407002;Ponto fictício 05 — referência de teste;buraco;;nao
