@@ -4,6 +4,12 @@ Automação acadêmica em Python que recebe um lote de denúncias fictícias, co
 
 **Dados de demonstração:** as 15 ocorrências e referências são inventadas. Os CEPs e endereços são reais e não representam locais com problemas confirmados. Nenhum relato é enviado a órgão público. Prioridade alta significa prioridade de análise, não urgência oficial ou diagnóstico técnico.
 
+## Equipe
+
+- **Leticia Resina** — RM 98069
+- **Sabrina Flores** — RM 550781
+- **Gabriel Riqueto** — RM 98685
+
 ## Comece aqui
 
 1. Instale **Python 3.10 ou superior** no computador. Não há pacotes para instalar com pip.
