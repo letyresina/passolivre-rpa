@@ -96,12 +96,6 @@ Sem nomes de denunciantes, e-mails, telefones, imagens ou credenciais. O ViaCEP 
 - `output/`: resultado mais recente para o painel.
 - `tests/`: testes automatizados.
 
-## Entrega acadêmica
-
-Integrantes informados: **Leticia Resina; Sabrina Flores; Gabriel Riqu**. Confirmar nomes completos e preencher os RMs antes da entrega. Não foram inventados números de matrícula.
-
-Checklist pendente: publicar o repositório público, gravar vídeo de até 3 minutos e inserir os links finais e nomes/RMs no relatório. O material técnico incluído é uma base para a entrega; o pacote local não equivale à publicação ou ao envio no Teams.
-
 ## Referência externa
 
 ViaCEP: https://viacep.com.br/ — endpoint `https://viacep.com.br/ws/{cep}/json/`. A documentação informa erro HTTP 400 para formato inválido e campo `erro` para CEP não encontrado. Respeite o serviço: lote pequeno, cache em memória e sem consultas massivas.
